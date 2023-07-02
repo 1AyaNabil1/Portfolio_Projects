@@ -1,0 +1,1 @@
+In this project we compared with the CNN and ANN accuracy to find which NN will give us higher accuracy 
