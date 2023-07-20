@@ -37,8 +37,8 @@ The mean, standard error (SE) and “worst” or largest (mean of the three larg
   - Deciding How Many Principal Components to Retain --> we found that k will equal 3
   - Calculate the Cumulative Variance 
 * Sixth: Machine Learning Classification
-    1- Building Feature Set
-    2- Support Vector Machine
-    3- Kernel Selection Using Learning Curve
-    4- Selection of Regularization parameter(C)
-* Seventh: Print the final accuracy of our model which is equal 97.94% S
+    - Building Feature Set
+    - Support Vector Machine
+    - Kernel Selection Using Learning Curve
+    - Selection of Regularization parameter(C)
+* Seventh: Print the final accuracy of our model which is equal 97.94%
