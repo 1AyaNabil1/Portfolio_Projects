@@ -30,12 +30,12 @@ The mean, standard error (SE) and “worst” or largest (mean of the three larg
 * Third: Apply some visualizations to the unimodal data. We used (histogram, density plot and box plot). 
 * Fourth: Apply some visualizations to the multimodal data. we used (heat map) to know the correlation between features. Then we used the scatter plot to better know the correlation between features (plot the : positive correlation, negative correlation and uncorrelated feature)
 * Fifth: Start Preprocessing Data by:
-    1- Statistical analysis --> To remove the outliers using IQR 
-    2- Split the available data into a training set and a testing set --> 70% training, 30% test
-    3- Feature Standardization --> mean of 0 and a standard deviation of 1
-    4- Feature decomposition using Principal Component Analysis(PCA) 
-    5- Deciding How Many Principal Components to Retain --> we found that k will equal 3
-    6- Calculate the Cumulative Variance 
+    * 1- Statistical analysis --> To remove the outliers using IQR 
+    * 2- Split the available data into a training set and a testing set --> 70% training, 30% test
+    * 3- Feature Standardization --> mean of 0 and a standard deviation of 1
+    * 4- Feature decomposition using Principal Component Analysis(PCA) 
+    * 5- Deciding How Many Principal Components to Retain --> we found that k will equal 3
+    * 6- Calculate the Cumulative Variance 
 * Sixth: Machine Learning Classification
     1- Building Feature Set
     2- Support Vector Machine
