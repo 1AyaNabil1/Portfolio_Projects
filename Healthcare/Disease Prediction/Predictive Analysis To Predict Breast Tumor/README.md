@@ -36,7 +36,7 @@ The mean, standard error (SE) and “worst” or largest (mean of the three larg
   - Feature decomposition using Principal Component Analysis(PCA) 
   - Deciding How Many Principal Components to Retain --> we found that k will equal 3
   - Calculate the Cumulative Variance 
-* Sixth: Machine Learning Classification
+* Sixth: Machine Learning Classification using (SVM)
     - Building Feature Set
     - Support Vector Machine
     - Kernel Selection Using Learning Curve
