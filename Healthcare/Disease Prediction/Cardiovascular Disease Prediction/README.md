@@ -11,5 +11,3 @@ We will be using some common Python libraries, such as pandas, numpy, and matplo
 http:////archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 This dataset contains patient data concerning heart disease diagnosis that was collected at several locations around the world. There are 76 attributes, including age, sex, resting blood pressure, cholestoral levels, echocardiogram data, exercise habits, and many others. To data, all published studies using this data focus on a subset of 14 attributes - so we will do the same. More specifically, we will use the data collected at the Cleveland Clinic Foundation.
-
-To import the necessary data, we will use pandas' built in read_csv() function. 
