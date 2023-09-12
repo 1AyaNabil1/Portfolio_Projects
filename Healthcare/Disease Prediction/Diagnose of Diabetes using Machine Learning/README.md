@@ -32,7 +32,7 @@ https://archive.ics.uci.edu/ml/datasets/Diabetes
 
 ----------------------------------------------------------------------
 
-# OUR Work: 
+# MY Work: 
 - First: Clean the Data.
   - Removed rows that contains the value zero in those features (Glucose, BP, Skin thickness,Insulin & BMI) as they can not be = 0
   - Split the data according to the outcome of 0s and 1s
