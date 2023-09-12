@@ -24,7 +24,7 @@ Ten real-valued features are computed for each cell nucleus:
 The mean, standard error (SE) and “worst” or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features.
 
 
-### OUR Work
+### MY Work
 * First: Clean the Data 
 * Second: Apply the EDA (Exploratory Data Analysis) to explore data
 * Third: Apply some visualizations to the unimodal data. We used (histogram, density plot and box plot). 
