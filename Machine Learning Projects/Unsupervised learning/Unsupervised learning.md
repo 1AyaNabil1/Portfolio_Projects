@@ -1,0 +1,1 @@
+It adds up a new value because now I can predict the Iris type through the classification algorithm and get the optimum cluster number needed in the k-clustering algorithm despite also classification can do this in a different way.
