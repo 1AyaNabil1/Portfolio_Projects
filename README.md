@@ -1,2 +1,2 @@
 # Portfolio_Projects
-This repo will contain all the projects that will be added to my portfolio 
+This repository contains a collection of projects that I've worked on, ranging from personal side projects to professional work. Each project folder includes its own README.md file with details about the project, its purpose, and how to get started.
